@@ -1,0 +1,23 @@
+.pic{
+   width:300px; 
+}
+
+.ingredients {
+    width:100px;
+}
+
+#container {
+    display:flex;
+    justify-content:space-around;
+}
+
+#bowl {
+    width:50%;
+}
+
+body {
+    text-align:center;
+}
+.brownie {
+    width:500px;
+}
